@@ -1,0 +1,40 @@
+body {
+    background: #525252;
+}
+
+.Student {
+    border: 1px solid gray;
+    border-radius: 12px;
+    background: #c7c7c7;
+    color: #484848;
+    padding: 2vmin;
+    margin: 4vmin;
+
+    max-width: 600px;
+
+    box-shadow: -.5vmin 4vmin 12vmin black;
+}
+
+.Student p {
+    color: #6f6f73;
+}
+
+.Student:last-of-type {
+    margin-bottom: 8vmin;
+}
+
+.Score td {
+    padding: .5vmin;
+}
+
+.Score td:not(.Score td:first-child) {
+    padding-left: 4vmin;
+}
+
+th {
+    text-align: left;
+}
+
+th:last-of-type {
+    text-align: right;
+}
