@@ -1,5 +1,5 @@
 # React Students
 
-Lab that to iterate on how to componentize a simple list of students in React.
+A lab iterating on how to break down a simple list of students into React components.
 
 ![screenshot](screenshot.png)
